@@ -1,1 +1,2 @@
-web: yarn start:production
+yarn build
+
